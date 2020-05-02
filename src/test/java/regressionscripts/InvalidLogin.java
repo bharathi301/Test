@@ -22,5 +22,6 @@ public void InvalidLogin()
 			test.pass("user enters password");
 			lp.clicklogin();
 			 test.info("test ended");
+			 System.out.println("done");
 }
 }
